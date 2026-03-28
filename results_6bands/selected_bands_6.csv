@@ -1,0 +1,8 @@
+Method,N_Bands,Selected_Bands
+PCA Loadings,6,"[0, 11, 32, 90, 143, 144]"
+Mutual Information,6,"[84, 88, 91, 92, 100, 105]"
+K-Means,6,"[14, 39, 57, 71, 105, 133]"
+Laplacian Score,6,"[71, 91, 97, 99, 101, 103]"
+Genetic Algorithm,6,"[6, 25, 27, 32, 41, 99]"
+QPSO,6,"[26, 31, 36, 39, 70, 86]"
+Quantum,6,"[47, 60, 61, 63, 125, 127]"

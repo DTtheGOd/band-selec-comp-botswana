@@ -1,0 +1,8 @@
+Model,Band_Selection,N_Bands,OA,AA,Kappa
+Random Forest,PCA Loadings,12,0.8892,0.8989,0.88
+Random Forest,Mutual Information,12,0.7426,0.7523,0.7212
+Random Forest,K-Means,12,0.9231,0.9341,0.9167
+Random Forest,Laplacian Score,12,0.8297,0.8414,0.8156
+Random Forest,Genetic Algorithm,12,0.9292,0.9386,0.9234
+Random Forest,QPSO,12,0.9395,0.9468,0.9345
+Random Forest,Quantum (Qiskit),12,0.8677,0.8785,0.8567

@@ -1,0 +1,8 @@
+Model,Band_Selection,N_Bands,OA,AA,Kappa
+KNN,PCA Loadings,10,0.8574,0.862,0.8455
+KNN,Mutual Information,10,0.7169,0.731,0.6935
+KNN,K-Means,10,0.9138,0.9266,0.9067
+KNN,Laplacian Score,10,0.8246,0.8373,0.8101
+KNN,Genetic Algorithm,10,0.9323,0.9412,0.9267
+KNN,QPSO,10,0.9456,0.9522,0.9411
+KNN,Quantum (Qiskit),10,0.8544,0.867,0.8423

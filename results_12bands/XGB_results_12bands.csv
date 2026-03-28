@@ -1,0 +1,8 @@
+Model,Band_Selection,N_Bands,OA,AA,Kappa
+XGBoost,PCA Loadings,12,0.8974,0.9049,0.8889
+XGBoost,Mutual Information,12,0.7374,0.7454,0.7156
+XGBoost,K-Means,12,0.9272,0.9367,0.9211
+XGBoost,Laplacian Score,12,0.8451,0.857,0.8322
+XGBoost,Genetic Algorithm,12,0.9323,0.9388,0.9267
+XGBoost,QPSO,12,0.9374,0.9446,0.9322
+XGBoost,Quantum (Qiskit),12,0.8749,0.8857,0.8645

@@ -1,0 +1,36 @@
+Model,Band_Selection,N_Bands,OA,AA,Kappa
+SVM,PCA Loadings,6,0.8226,0.8295,0.8077
+SVM,Mutual Information,6,0.7374,0.7483,0.7158
+SVM,K-Means Clustering,6,0.9251,0.9339,0.9189
+SVM,Laplacian Score,6,0.8585,0.8698,0.8467
+SVM,Genetic Algorithm,6,0.9487,0.9537,0.9445
+SVM,QPSO,6,0.9528,0.9579,0.9489
+SVM,Quantum Amplitude (Qiskit),6,0.8236,0.8392,0.8091
+Random Forest,PCA Loadings,6,0.8154,0.8254,0.8
+Random Forest,Mutual Information,6,0.6985,0.7098,0.6734
+Random Forest,K-Means,6,0.8995,0.9115,0.8911
+Random Forest,Laplacian Score,6,0.8277,0.8388,0.8134
+Random Forest,Genetic Algorithm,6,0.919,0.9285,0.9123
+Random Forest,QPSO,6,0.919,0.9292,0.9123
+Random Forest,Quantum (Qiskit),6,0.8072,0.8204,0.7913
+XGBoost,PCA Loadings,6,0.8215,0.8288,0.8066
+XGBoost,Mutual Information,6,0.6831,0.696,0.6567
+XGBoost,K-Means,6,0.8903,0.9023,0.8811
+XGBoost,Laplacian Score,6,0.8144,0.8234,0.7989
+XGBoost,Genetic Algorithm,6,0.919,0.9279,0.9122
+XGBoost,QPSO,6,0.9221,0.9313,0.9156
+XGBoost,Quantum (Qiskit),6,0.8103,0.8182,0.7945
+LightGBM,PCA Loadings,6,0.8185,0.827,0.8033
+LightGBM,Mutual Information,6,0.6749,0.6828,0.6477
+LightGBM,K-Means,6,0.8851,0.8991,0.8756
+LightGBM,Laplacian Score,6,0.8,0.8146,0.7834
+LightGBM,Genetic Algorithm,6,0.9251,0.9328,0.9189
+LightGBM,QPSO,6,0.9231,0.9316,0.9167
+LightGBM,Quantum (Qiskit),6,0.7938,0.8023,0.7767
+KNN,PCA Loadings,6,0.8062,0.8138,0.79
+KNN,Mutual Information,6,0.681,0.6955,0.6546
+KNN,K-Means,6,0.8872,0.9031,0.8779
+KNN,Laplacian Score,6,0.8287,0.8416,0.8145
+KNN,Genetic Algorithm,6,0.9221,0.9337,0.9156
+KNN,QPSO,6,0.9138,0.9249,0.9067
+KNN,Quantum (Qiskit),6,0.7867,0.8022,0.769

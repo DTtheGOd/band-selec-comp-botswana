@@ -1,0 +1,8 @@
+Model,Band_Selection,N_Bands,OA,AA,Kappa
+LightGBM,PCA Loadings,12,0.8872,0.8961,0.8778
+LightGBM,Mutual Information,12,0.7344,0.7464,0.7123
+LightGBM,K-Means,12,0.9313,0.9425,0.9256
+LightGBM,Laplacian Score,12,0.8256,0.8361,0.811
+LightGBM,Genetic Algorithm,12,0.9374,0.9421,0.9322
+LightGBM,QPSO,12,0.9395,0.9417,0.9345
+LightGBM,Quantum (Qiskit),12,0.8738,0.8833,0.8634
